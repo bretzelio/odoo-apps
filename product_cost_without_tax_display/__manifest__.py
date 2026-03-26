@@ -38,6 +38,11 @@
     "data": [
         "views/product_template_views.xml",
     ],
+    "images": [
+        "static/description/main_screenshot.png",
+        "static/description/screenshot_en.png",
+        "static/description/screenshot_fr.png",
+    ],
     "assets": {},
     "installable": True,
     "application": False,
